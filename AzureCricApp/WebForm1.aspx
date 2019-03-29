@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is my first Azure web app
+            This is my first Azure web app2
         </div>
     </form>
 </body>
